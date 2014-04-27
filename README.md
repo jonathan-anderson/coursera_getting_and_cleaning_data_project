@@ -10,7 +10,7 @@ Overview of Project
 
 ["Getting and Cleaning Data"](https://class.coursera.org/getdata-002) is a ["Coursera"](https://www.coursera.org/) course designed to familiarize students with the methods and tools used to obtain and pre-process raw data for analysis from different sources and of different formats. 
 
-Our class project requires we combine the skills learned to extract and process information from a study on ["recognizing human activity from smart phone data"](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).  Additionally, we've been asked to provide clear documentation using ["Github"](https://github.com/) and its standards of practice for colloboration and reproducible research, which were also components of our course. 
+Our class project requires we combine the skills learned to extract and process information from a study on ["recognizing human activity from smart phone data"](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).  Additionally, we've been asked to provide clear documentation using ["Github"](https://github.com/) followings its standards of practice for colloboration and reproducible research, which were also components of our course. 
 
 
 
